@@ -1,4 +1,4 @@
-# Hedgefundie Excellent Adventure VaR Modelling
+# Hedgefundie's Excellent Adventure VaR Modelling
 
 References:
 
